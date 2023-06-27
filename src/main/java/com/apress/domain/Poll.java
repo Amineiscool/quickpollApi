@@ -66,5 +66,4 @@ public class Poll {
                 ", options=" + options +
                 '}';
     }
-// Getters and Setters omitted for brevity
 }
