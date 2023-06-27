@@ -2,9 +2,6 @@ package com.apress.errorMessagePrinter;
 
 import com.apress.error.ErrorDetail;
 import com.apress.error.ResourceNotFoundException;
-//import com.pollingapi.error.ErrorDetail;
-//import com.pollingapi.error.ValidationError;
-//import com.pollingapi.exception.ResourceNotFoundException;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.MessageSource;
 import org.springframework.http.HttpHeaders;
