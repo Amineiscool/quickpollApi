@@ -1,7 +1,6 @@
 package com.apress;
 
 import com.apress.domain.Poll;
-//import com.apress.error.ResourceNotFoundException;
 import com.apress.error.ResourceNotFoundException;
 import com.apress.repository.PollRepository;
 import org.springframework.beans.factory.annotation.Autowired;
