@@ -7,7 +7,7 @@ import java.util.List;
 import java.util.Map;
 
 public class ErrorDetail {
-
+ 
     private String title;
     private int status;
     private String detail;
