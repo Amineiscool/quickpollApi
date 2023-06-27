@@ -11,7 +11,6 @@ import javax.validation.Valid;
 import java.util.Optional;
 
 @RestController
-//@RequestMapping("/api/polls")
 public class PollController {
 
     @Autowired
