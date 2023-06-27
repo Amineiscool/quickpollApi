@@ -39,7 +39,6 @@ import javax.persistence.Id;
             this.value = value;
         }
 
-        // Getters and Setters omitted for brevity
 
 
         @Override
