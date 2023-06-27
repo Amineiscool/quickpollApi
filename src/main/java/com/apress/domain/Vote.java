@@ -46,5 +46,5 @@ public class Vote {
                 ", option=" + option +
                 '}';
     }
-// Getters and Setters omitted for brevity
+
 }
